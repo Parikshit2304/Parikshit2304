@@ -10,7 +10,7 @@
 
 # 💫 About Me: 
 
--🔭 I’m currently working on- Machine Learning Projects<br>-👯 I’m looking to collaborate on- Open Source Projects<br>-🌱 I’m currently learning- Advanced Machine Learning<br>-🌐Connect me- gargaviral99@gmail.com<br> -🔗Access my portfolio here **[My Portfolio](https://aviralgarg-github-io.vercel.app/)**
+-🔭 I’m currently learning- Full Stack Development <br>-👯 I’m looking to collaborate on- Open Source Projects<br>-🌱<br>-🌐Connect me- iamparikshit2304@gmail.com<br> -
  
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/parikshit-pandey-15249b247/">
