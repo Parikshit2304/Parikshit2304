@@ -12,17 +12,12 @@
 
 -🔭 I’m currently learning- Full Stack Development <br>-👯 I’m looking to collaborate on- Open Source Projects<br>-🌱<br>-🌐Connect me- iamparikshit2304@gmail.com<br> -
  
-## 🌐 Socials:
-<a href="https://www.linkedin.com/in/parikshit-pandey-15249b247/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="width:100px; height:auto;">
-</a>
 
-<a href="">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" alt="Twitter" style="width:75px; height:auto;">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?logo=devdotto&logoColor=white" alt="Dev.to" style="width:100px; height:auto;">
-</a>
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__parikshit.pandey__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parikshit-pandey-15249b247/) 
+
 
 
 
